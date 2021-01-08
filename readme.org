@@ -1,0 +1,2 @@
+* Have fun with Common Lisp
+Solve problems on various websites with Common Lisp.
